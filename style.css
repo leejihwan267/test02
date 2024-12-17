@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #87CEEB; /* 파란색 배경 */
+}
+
+#game-container {
+    border: 2px solid #000;
+}
+
+#gameCanvas {
+    background-color: #87CEEB;
+    display: block;
+    margin: auto;
+}
